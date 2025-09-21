@@ -67,3 +67,6 @@ def show_distributions():
     plt.suptitle('Understanding the distributions used for the simulation', fontsize=15, y=0.95)
 
     return axes
+
+show_distributions()
+plt.show()
